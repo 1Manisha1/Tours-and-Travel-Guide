@@ -1,7 +1,7 @@
 # Tour-Project
 <b>Calling All Open Source Contributors: Join Us in Shaping the Future of this Repository! Try Making Some Changes!</b> <br>
 
-DEMO-> [https://1manisha1.github.io/Tours-and-Travel-Guide/](http://127.0.0.1:5500/Tour-Project-main/index.html#category)
+DEMO-> [1manisha1.github.io/Tours-and-Travel-Guide/](http://127.0.0.1:5500/Tour-Project-main/index.html#category)
 Tour &amp; Travel Project (Using Html, Css, Php, Javascript).
 
 Here I used <b>Html, Css & javascript</b> To create the front end part of the website and for storing the Contact Information in the Database we used <b>php</b> as a backend language.
